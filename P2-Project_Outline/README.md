@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+D&D monster builder / modifier website
 ### Features
-Include Features here
+manages users, user defined monsters, user defied encounter groups, private 
 ### Technologies
-Include Technologies here
+OAuth2, Maven, Postgresql, java, javascript, springboot, hibernate, anqular, Linux
 ### What I'll Have to Learn
-Include what you will need to learn here
+Oauth2, Maver, Postgresql, anqular integration into springboot, webhosting from linux on an RPi3+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/0iShLA0y/monster-builder-website
